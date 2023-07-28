@@ -9,7 +9,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" height=300px width=300px>
 </p>
 </div>
-
+<h3 align="left">S M A R T </h3>
 <div align="inline">
 <p align="left">
 <h3 align="left">Connect with me:</h3>
