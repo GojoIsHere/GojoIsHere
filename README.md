@@ -3,12 +3,12 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GojoIsHere&label=Profile%20views&color=0e75b6&style=flat" alt="GojoIsHere" /> </p>
-
+- 🌱 I’m currently learning **MERN Stack**
 <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GojoIsHere&" alt="GojoIsHere" />
 <img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" height=300px width=300px>
 </p>
-- 🌱 I’m currently learning **MERN Stack**
+
 
 <br/>
 <h3 align="left">Connect with me:</h3>
