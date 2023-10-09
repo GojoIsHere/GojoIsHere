@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Namaste 👋, I'm Sushi Kumar Thanet </h1>
+<h1 align="center">Namaste 👋, I'm Sushil Kumar Thanet </h1>
 <h3 align="center">I am curently a student fellow at Technology for Equity and Justice(TEJ) Center</h3>
 <h5 align="center">🌱 I’m currently learning **MERN Stack**</h5>
 </div>
